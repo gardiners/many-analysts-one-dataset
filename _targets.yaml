@@ -1,0 +1,3 @@
+main:
+  reporter_make: verbose
+  as_job: yes
